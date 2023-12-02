@@ -86,7 +86,7 @@ img {
 }
 
 button {
-    color: #081f62;
+    color: aliceblue;
     padding: 10px 10px;
     text-align: right;
     text-decoration: none;
@@ -94,12 +94,13 @@ button {
     font-size: 12px;
     margin: 2px 2px;
     cursor: pointer;
-    background-color: #E7E9F0;
-    border-style:solid;
+    background-color: #051747;
+    border-style: solid;
+    border-radius: 50%;
 }
 
 button:hover {
-    background-color: #535F80;
+    background-color: #E7E9F0;
     padding: 9px;
 }
 
@@ -156,14 +157,24 @@ p {
 #top {
     text-align: center;
     font-weight: bold;
+    font-size: larger;
 }
 
 #middle {
     text-align: center;
     font-weight: bold;
+    font-size:larger ;
 }
 
 #bottom {
     text-align: center;
     font-weight: bold;
+    font-size: larger;
+}
+
+#para {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 9px;
 }
