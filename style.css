@@ -53,3 +53,22 @@ li a:hover {
     background-color: #535F80;
     padding: 9px;
 }
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.row::after {
+    clear: both;
+    display: table;
+}
+.row {
+    display: flex;
+}
+
+.column {
+    flex:25%;
+    padding: 5px;
+}
