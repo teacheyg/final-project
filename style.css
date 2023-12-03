@@ -178,3 +178,14 @@ p {
     margin-right: auto;
     padding: 9px;
 }
+
+#synopsis {
+   font-family: 'Times New Roman', Times, serif;
+   text-indent: 30px;
+   line-height: 1.5;
+   max-width: 30%;
+   margin-left: 50px;
+   margin-right: 50px;
+   text-align: justify;
+}
+
