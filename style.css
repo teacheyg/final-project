@@ -85,7 +85,7 @@ img {
     height: 100%;
 }
 
-button {
+.button {
     color: aliceblue;
     padding: 10px 10px;
     text-align: right;
@@ -99,7 +99,7 @@ button {
     border-radius: 50%;
 }
 
-button:hover {
+.button:hover {
     background-color: #E7E9F0;
     padding: 9px;
 }
@@ -172,14 +172,14 @@ p {
     font-size: larger;
 }
 
-#para {
+.para {
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
     padding: 9px;
 }
 
-#synopsis {
+.synopsis {
    font-family: 'Times New Roman', Times, serif;
    text-indent: 30px;
    line-height: 1.5;
