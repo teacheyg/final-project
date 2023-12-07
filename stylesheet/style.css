@@ -44,7 +44,7 @@ main {
     margin: 9px;
     border-top: #502419 solid;
     border-bottom: #502419 solid;
-    border-width: 10px;
+    border-width: 9px;
 }
 
 .id-post {
@@ -81,8 +81,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
 }
 
 .button {
