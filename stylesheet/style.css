@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #fdffcf;
+    background: #fdfffc;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -33,7 +33,7 @@ header ul li {
 }
 
 header  a {
-    color: #fdffcf;
+    color: #fdfffc;
     text-decoration: none;
     line-height: 6em;
     text-align: left;
@@ -49,7 +49,7 @@ main {
 
 .id-post {
     text-align: center;
-    color: #fdffcf;
+    color: #fdfffc;
     font-size: x-large;
 }
 
@@ -86,7 +86,7 @@ img {
 }
 
 .button {
-    color: #fdffcf;
+    color: #fdfffc;
     padding: 10px 10px;
     text-align: right;
     text-decoration: none;
@@ -94,7 +94,7 @@ img {
     font-size: 12px;
     margin: 2px 2px;
     cursor: pointer;
-    background-color: #14281d;
+    background-color: #502419;
     border-style: solid;
     border-radius: 50%;
 }
@@ -200,6 +200,46 @@ p {
     margin-right: auto;
     font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
-    color: #fdffcf;
+    color: #fdfffc;
     font-size: large;
 }
+@media screen and (max-width: 616px) {
+    header {
+      background: #14281d;
+      display: block;
+      padding: 0;
+    }
+  
+    header ul li {
+      display: block;
+      border-top: 1px solid #502419;
+    }
+  
+    header h1 {
+      padding: 20px;
+    }
+  }
+  
+@media screen and (min-width: 576px) {
+    header {
+      background: #14281d;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    header {
+      background: #14281d;
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    header {
+      background: #14281d;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    header {
+      background: #14281d;
+    }
+  }
