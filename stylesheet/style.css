@@ -251,13 +251,13 @@ p {
   }
 
   @media screen and (min-width:601px) {
-    .synopsis {
-        font-size: 80px;
+   p {
+        font-size: 30px;
     }
   }
 
   @media screen and (min-width:600px) {
-    .synopsis {
+    p {
         font-size: 30px;
     }
   }
