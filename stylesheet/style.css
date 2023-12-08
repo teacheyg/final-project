@@ -204,11 +204,6 @@ figcaption {
     font-size: large;
 }
 
-.class {
-    max-width: 25%;
-    max-height: 15%;
-    float: left;
-}
 @media screen and (max-width: 616px) {
     header {
       background: #14281d;
@@ -249,3 +244,4 @@ figcaption {
       background: #14281d;
     }
   }
+
