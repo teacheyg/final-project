@@ -179,13 +179,13 @@ p {
     padding: 9px;
 }
 
-.synopsis {
+figcaption {
    font-family: 'Times New Roman', Times, serif;
    text-indent: 30px;
    line-height: 1.5;
    max-width: 30%;
-   margin-left: 50px;
-   margin-right: 50px;
+   margin-left: auto;
+   margin-right: auto;
    text-align: justify;
 }
 
