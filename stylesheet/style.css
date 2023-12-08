@@ -158,18 +158,21 @@ p {
     text-align: center;
     font-weight: bold;
     font-size: larger;
+    color: #fdfffc;
 }
 
 #middle {
     text-align: center;
     font-weight: bold;
     font-size:larger ;
+    color: #fdfffc;
 }
 
 #bottom {
     text-align: center;
     font-weight: bold;
     font-size: larger;
+    color: #fdfffc;
 }
 
 .para {
@@ -187,6 +190,7 @@ figcaption {
    margin-left: auto;
    margin-right: auto;
    text-align: justify;
+   font-size: large;
 }
 
 .pic:hover {
